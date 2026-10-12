@@ -13,5 +13,5 @@
   - Phiên bản A: Duyệt 2 vòng lồng nhau. Độ phức tạp: Θ(n²). Bộ nhớ: Θ(1).
   - Phiên bản B: Dùng thuật toán Kadane. Độ phức tạp: Θ(n). Bộ nhớ: Θ(1).
 
-#Công cụ AI hỗ trợ
+# Công cụ AI hỗ trợ
 - Bài 3 phần đo thời gian cho 2 phiên bản A,B. Phân tích 2 phiên bản A,B chạy như thế nào
