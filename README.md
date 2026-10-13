@@ -14,4 +14,5 @@
   - Phiên bản B: Dùng thuật toán Kadane. Độ phức tạp: Θ(n). Bộ nhớ: Θ(1).
 
 # Công cụ AI hỗ trợ
-- Bài 3 phần đo thời gian cho 2 phiên bản A,B. Phân tích 2 phiên bản A,B chạy như thế nào
+- Code giải thuật thuật toán Kadane, đo thời gian của 2 phiên bản, cách đẩy file lên git, ôn tập lại lí thuyết C#
+
